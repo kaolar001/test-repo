@@ -6,3 +6,5 @@ function firstFun (){
 function secondFun (){
     console.log("hello,world 2")
 }
+
+function testFun(){}
